@@ -1,0 +1,3 @@
+HTMLAllCollection
+IDBCursor
+VideoColorSpace
